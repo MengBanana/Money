@@ -3,7 +3,7 @@
  * Money.java
  * 
  *  @since June 19, 2018
- *  @author Xinmeng Zhang, modified Prof. Gust's code by adding exceptions
+ *  @author Xinmeng Zhang
  */
 package edu.northeastern.cs_5004;
 
