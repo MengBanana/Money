@@ -2,8 +2,7 @@
  *  Money_test.java
  *  
  *  @since June 19, 2018
- *  @author Xinmeng Zhang, modified Prof. Gust's code by adding exceptions tests, 
- *  multiple currency test and asCurrency function tests
+ *  @author Xinmeng Zhang
  */
 package edu.northeastern.cs_5004;
 
