@@ -9,3 +9,4 @@ in every Money operation on two or more currencies. The base for this exception 
 
 Money.asCurrency(Currency aCurrency, double exchangeRate) that converts an instance to one for the specified Currency 
 by multiplying the instance amount by the given exchange rate, and returns the new instance with that amount and currency.
+
